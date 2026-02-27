@@ -1,0 +1,11 @@
+To run:
+-download cargame.class
+-go to where you'd execute Java programs
+-execute game by entering java cargame
+
+Game itself:
+-up arrow key to move forward
+-down arrow key to move backwards
+-right arrow key to rotate right
+-left arrow key to rotate left
+-activate points around track and make it to finish line as fast as you'd like to
